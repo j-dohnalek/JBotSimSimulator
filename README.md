@@ -17,3 +17,6 @@ http://jbotsim.io/
 ### Ring RingRendezVouz
 * https://pageperso.lif.univ-mrs.fr/~arnaud.labourel/AD2014/TP5.pdf
 * http://pageperso.lif.univ-mrs.fr/~arnaud.labourel/AD2014/RingRendezVous.zip
+
+## Bibliography
+Arnaud Labourel, Algorithmique Distribuée (2014), Le Laboratoire d’Informatique Fondamentale de Marseille
